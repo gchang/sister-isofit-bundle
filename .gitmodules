@@ -1,0 +1,6 @@
+[submodule "sister-isofit"]
+	path = sister-isofit
+	url = https://github.com/sister-jpl/sister-isofit.git
+[submodule "isofit"]
+	path = isofit
+	url = https://github.com/isofit/isofit.git
